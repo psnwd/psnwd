@@ -7,7 +7,6 @@
   <h1 align="center">
       Hi..., I'm BlackCAT
   </h1>
-  <h4 align="center">Software Developer</h4>
 </div>
 
 <div align="center">
