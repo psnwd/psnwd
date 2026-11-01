@@ -19,10 +19,10 @@ Building intelligent systems, experimenting with ideas, and occasionally disappe
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  STATUS       Online, probably debugging something.      │
-│  ROLE         Software Engineer                           │
+│  ROLE         Software Engineer                          │
 │  FOCUS        Agentic AI · RAG · Systems Engineering     │
 │  SIDE QUEST   Indie Games · Gaming Content               │
-│  PHILOSOPHY   Build things. Break things. Learn things.   │
+│  PHILOSOPHY   Build things. Break things. Learn things.  │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
