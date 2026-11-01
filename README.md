@@ -1,50 +1,89 @@
 <div align="center">
 
-# Hi, I'm BlackCAT
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&text=BLACKCAT&fontSize=70&fontColor=ffffff&stroke=58A6FF&strokeWidth=1&animation=fadeIn&color=0:0d1117,100:161b22" width="100%" />
 
-### Software Engineer & AI/ML Specialist - building agentic AI systems, indie games, and content on the side
+### `software engineer` · `ai/ml enthusiast` · `indie creator`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Building+agentic+RAG+systems;Developing+%22Someone+Was+Here%22+%F0%9F%90%B1;Creating+gaming+content+as+BlackCAT;Always+shipping+something" alt="Typing SVG" />
+Building intelligent systems, experimenting with ideas, and occasionally disappearing into a game development rabbit hole.
+
+[![GitHub](https://img.shields.io/badge/GitHub-psnwd-181717?style=flat-square&logo=github)](https://github.com/psnwd)
+[![Profile Views](https://komarev.com/ghpvc/?username=psnwd&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/psnwd)
 
 </div>
 
-<br/>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
+```text
+┌──────────────────────────────────────────────────────────┐
+│  BLACKCAT / SYSTEM PROFILE                               │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  STATUS       Online, probably debugging something.      │
+│  ROLE         Software Engineer                           │
+│  FOCUS        Agentic AI · RAG · Systems Engineering     │
+│  SIDE QUEST   Indie Games · Gaming Content               │
+│  PHILOSOPHY   Build things. Break things. Learn things.   │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-100000?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## 01 / What I'm working on
 
+- Building **agentic AI systems** and intelligent RAG pipelines.
+- Exploring LLM applications, AI agents, and automation.
+- Developing an indie game project. 🐈
+- Creating gaming content under the name **BlackCAT**.
+- Experimenting with different technologies and turning ideas into actual products.
 
-<br/>
+## 02 / Tech Arsenal
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript)
+![Go](https://img.shields.io/badge/Go-161b22?style=flat-square&logo=go)
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python)
+![C#](https://img.shields.io/badge/C%23-161b22?style=flat-square&logo=csharp)
+![C++](https://img.shields.io/badge/C%2B%2B-161b22?style=flat-square&logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-161b22?style=flat-square&logo=rust)
+![PHP](https://img.shields.io/badge/PHP-161b22?style=flat-square&logo=php)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow)
+
+**Tools / Frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-161b22?style=flat-square&logo=dotnet)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-161b22?style=flat-square&logo=unrealengine)
+
+---
+
+## 03 / GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=psnwd&theme=dark&hide_border=false" alt="GitHub Streak" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=psnwd&theme=github-dark-blue&hide_border=true" />
+
 </div>
+
+## 04 / A little extra
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/psnwd/psnwd/1ca53178f6deca37158f3b18b2288cb4cb4a82fa/grid-snake.svg" width="100%" />
+
+### `curiosity.exe` is always running.
+
+*I don't just want to use technology. I want to understand it, experiment with it, and build something interesting with it.*
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/psnwd/psnwd/1ca53178f6deca37158f3b18b2288cb4cb4a82fa/grid-snake.svg" alt="Snake animation" />
+**Thanks for visiting. Stay curious. Stay dangerous. 🐈**
+
 </div>
 
-<br/>
 
-<div align="center">
-  <sub>⭐️ Thanks for stopping by — feel free to explore my repos!</sub>
-</div>
